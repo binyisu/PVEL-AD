@@ -2,7 +2,7 @@
 PVEL-AD Datasets: 
 2021 Dataset Access Instructions
 
-The PVELAD-2021 Datasets Request Form is available here. 
+The **PVELAD-2021 Datasets Request Form** is available here. 
 
 All researchers need to follow the instructions below to access the datasets.
 
