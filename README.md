@@ -13,4 +13,7 @@ Email the signed Datasets Request Form to Binyisu@buaa.edu.cn
 
 ![image](https://user-images.githubusercontent.com/35132544/132239405-a5227832-c3ff-4303-9c46-6d6da76eb630.png)
 
-<span style="color: green"> Some green text </span>
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
