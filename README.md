@@ -1,6 +1,8 @@
 **PVEL-AD-dataset：**
 
-2021 Dataset Access Instructions
+```diff
+- 2021 Dataset Access Instructions
+```
 
 The **PVELAD-2021 Datasets Request Form** is available here. 
 
@@ -12,8 +14,3 @@ Download and fill the  Datasets Request Form (MUST be hand signed with date). Pl
 Email the signed Datasets Request Form to Binyisu@buaa.edu.cn
 
 ![image](https://user-images.githubusercontent.com/35132544/132239405-a5227832-c3ff-4303-9c46-6d6da76eb630.png)
-
-```diff
-+ this will be highlighted in green
-- this will be highlighted in red
-```
