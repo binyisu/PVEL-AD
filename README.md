@@ -2,7 +2,7 @@
 
 # News
 
-[20211010]PVEL-AD-dataset is avaliable here.
+[2021-10-10]PVEL-AD-dataset is avaliable here.
 
 **2021 Dataset Access Instructions**
 
