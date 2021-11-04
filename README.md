@@ -2,7 +2,7 @@
 
 # News
 
-[2021-10-10]: PVEL-AD dataset is coming soon! please be patient.
+[2021-10-10]: PVEL-AD dataset is coming soon! Please be patient.
 
 **2021 Dataset Access Instructions**
 
