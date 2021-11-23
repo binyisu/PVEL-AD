@@ -1,7 +1,7 @@
 # Solar cell EL image defect detection
 
 # News
-[2021-11-23]: a Competition will be hold, you can submit you result in https://codalab.lisn.upsaclay.fr/competitions/323?secret_key=b3101059-87ad-4092-b528-b87937e1583a.
+[2021-11-23]: A Codalab Competition will be hold, you can submit you result in https://codalab.lisn.upsaclay.fr/competitions/323?secret_key=b3101059-87ad-4092-b528-b87937e1583a.
 
 [2021-10-10]: PVEL-AD dataset is coming soon! Please be patient.
 
