@@ -5,6 +5,8 @@
 
 [2021-10-10]: PVEL-AD dataset is coming soon! Please be patient.
 
+**Dataset application address:** http://aihebut.com/col.jsp?id=118 or https://github.com/binyisu/PVEL-AD
+
 **2021 Dataset Access Instructions**
 
 We build a Photovoltaic Electroluminescence Anomaly Detection dataset (PVEL-AD ) for solar cell, which contains 36,543 near-infrared images with various internal defects and heterogeneous background. This dataset contains anomaly-free images and anomalous images with 10 different categories such as crack (line and star), finger interruption, black core, misalignment, thick line, scratch, fragment, corner, and material defect. Moreover, 37,380 ground truth bounding boxes are provided for 8 types of defects.
