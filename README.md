@@ -1,13 +1,13 @@
 # Solar cell EL image defect detection
 
 # News
-[2021-11-23]: A Codalab Competition will be hold, you can submit you result in https://codalab.lisn.upsaclay.fr/competitions/323?secret_key=b3101059-87ad-4092-b528-b87937e1583a.
+[2021-11-23]: A Codalab test platform is being built, then you can submit you result in https://codalab.lisn.upsaclay.fr/competitions/323?secret_key=b3101059-87ad-4092-b528-b87937e1583a.
 
 [2021-10-10]: PVEL-AD dataset is coming soon! Please be patient.
 
 **2021 Dataset Access Instructions**
 
-We build a Photovoltaic Electroluminescence Anomaly Detection dataset (PVEL-AD ) for solar cell, which contains 36,524 near-infrared images with various internal defects and heterogeneous background. This dataset contains anomaly-free images and anomalous images with 10 different categories such as crack (line and star), finger interruption, black core, misalignment, thick line, scratch, fragment, corner, and material defect. Moreover, 36,825 ground truth bounding boxes are provided for 8 types of defects.
+We build a Photovoltaic Electroluminescence Anomaly Detection dataset (PVEL-AD ) for solar cell, which contains 36,543 near-infrared images with various internal defects and heterogeneous background. This dataset contains anomaly-free images and anomalous images with 10 different categories such as crack (line and star), finger interruption, black core, misalignment, thick line, scratch, fragment, corner, and material defect. Moreover, 37,380 ground truth bounding boxes are provided for 8 types of defects.
 
 The **PVELAD-2021 Datasets Request Form** is available here. 
 
