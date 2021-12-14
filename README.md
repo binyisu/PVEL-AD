@@ -1,6 +1,8 @@
 # Solar cell EL image defect detection
 
 # News
+[2021-12-14]: data augmentation via horizontal_flipping.py
+
 [2021-11-23]: A Codalab test platform is being built, then you can submit you result in https://codalab.lisn.upsaclay.fr/competitions/323?secret_key=b3101059-87ad-4092-b528-b87937e1583a.
 
 [2021-10-10]: PVEL-AD dataset is coming soon! Please be patient.
