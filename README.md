@@ -1,7 +1,7 @@
 # Solar cell EL image defect detection
 
 # News
-[2021-12-14]: Data augmentation via horizontal_flipping.py
+[2021-12-14]: Data augmentation via horizontal_flipping.py, detection results evaluated by AP50-5-95.py
 
 [2021-11-23]: A Codalab test platform is being built, then you can submit you result in https://codalab.lisn.upsaclay.fr/competitions/323?secret_key=b3101059-87ad-4092-b528-b87937e1583a.
 
