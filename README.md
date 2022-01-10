@@ -28,4 +28,4 @@ All researchers need to follow the instructions below to access the datasets.
 
 [2] B. Su, H. Chen, and P. Chen, ``Deep Learning-Based Solar-Cell Manufacturing Defect Detection With Complementary Attention Network,'' *IEEE Trans. Ind. Inform.*, vol. 17, no. 6, pp. 4084--4095, Jun. 2021.
 
-[3] B. Su, H. Chen, and Z. Zhou, ``BAF-Detector: An Efficient CNN-Based Detector for Photovoltaic Cell Defect Detection,'' *IEEE Trans. Ind. Electron.*, doi: 10.1109/TIE.2021.3070507.
+[3] B. Su, H. Chen, and Z. Zhou, ``BAF-Detector: An Efficient CNN-Based Detector for Photovoltaic Cell Defect Detection,'' *IEEE Trans. Ind. Electron.*,  vol. 69, no. 3, pp. 3161-3171, Mar. 2022.
