@@ -3,9 +3,7 @@
 # News
 [2021-12-14]: Training data augmentation via horizontal_flipping.py. Evaluation: first, converting ground truth xml to txt by get_gt_txt.py; Second, appling AP50-5-95.py to evaluate the detection results.
 
-[2021-11-23]: A Codalab test platform is being built, then you can submit you result in https://www.kaggle.com/c/pvelad.
-
-[2021-10-10]: PVEL-AD dataset is coming soon! Please be patient.
+[2021-11-23]: A kaggle competition platform is being built, then you can submit you result in https://www.kaggle.com/c/pvelad, and evaluate your algorithm.
 
 **Dataset application address:** http://aihebut.com/col.jsp?id=118 or https://github.com/binyisu/PVEL-AD
 
