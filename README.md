@@ -5,7 +5,7 @@
 
 [2021-11-23]: A kaggle competition platform is built, then you can submit you result in https://www.kaggle.com/c/pvelad, and evaluate your algorithm.
 
-**Dataset application address:** http://aihebut.com/col.jsp?id=118 or https://github.com/binyisu/PVEL-AD
+**Dataset application website:** http://aihebut.com/col.jsp?id=118 or https://github.com/binyisu/PVEL-AD
 
 **2021 Dataset Access Instructions**
 
