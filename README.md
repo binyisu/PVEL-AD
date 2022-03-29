@@ -25,8 +25,10 @@ All researchers need to follow the instructions below to access the datasets.
 
 ![image](https://user-images.githubusercontent.com/35132544/132239405-a5227832-c3ff-4303-9c46-6d6da76eb630.png)
 
-[1] B. Su, H. Chen, Y. Zhu, W. Liu and K. Liu, ``Classification of Manufacturing Defects in Multicrystalline Solar Cells With Novel Feature Descriptor,'' *IEEE Trans. Instrum. Meas.*, vol. 68, no. 12, pp. 4675--4688, Dec. 2019.
+[1] Binyi Su, Zhong Zhou, Haiyong Chen, “PVEL-AD: A Large-Scale Open-World Dataset for Photovoltaic Cell Anomaly Detection,” IEEE Trans. Ind. Inform., DOI (identifier) :10.1109/TII.2022.3162846
 
-[2] B. Su, H. Chen, and P. Chen, ``Deep Learning-Based Solar-Cell Manufacturing Defect Detection With Complementary Attention Network,'' *IEEE Trans. Ind. Inform.*, vol. 17, no. 6, pp. 4084--4095, Jun. 2021.
+[2] B. Su, H. Chen, Y. Zhu, W. Liu and K. Liu, ``Classification of Manufacturing Defects in Multicrystalline Solar Cells With Novel Feature Descriptor,'' *IEEE Trans. Instrum. Meas.*, vol. 68, no. 12, pp. 4675--4688, Dec. 2019.
 
-[3] B. Su, H. Chen, and Z. Zhou, ``BAF-Detector: An Efficient CNN-Based Detector for Photovoltaic Cell Defect Detection,'' *IEEE Trans. Ind. Electron.*,  vol. 69, no. 3, pp. 3161-3171, Mar. 2022.
+[3] B. Su, H. Chen, and P. Chen, ``Deep Learning-Based Solar-Cell Manufacturing Defect Detection With Complementary Attention Network,'' *IEEE Trans. Ind. Inform.*, vol. 17, no. 6, pp. 4084--4095, Jun. 2021.
+
+[4] B. Su, H. Chen, and Z. Zhou, ``BAF-Detector: An Efficient CNN-Based Detector for Photovoltaic Cell Defect Detection,'' *IEEE Trans. Ind. Electron.*,  vol. 69, no. 3, pp. 3161-3171, Mar. 2022.
