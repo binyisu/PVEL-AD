@@ -21,7 +21,7 @@ All researchers need to follow the instructions below to access the datasets.
 * Email the signed **Datasets Request Form** to Subinyi@buaa.edu.cn
 * The copyright of PVELAD dataset belongs to **Hebei University of Technology**.
 
-![image](https://user-images.githubusercontent.com/35132544/132239405-a5227832-c3ff-4303-9c46-6d6da76eb630.png)
+![image](https://github.com/binyisu/PVEL-AD/blob/main/1648282192(1).png)
 
 [1] Binyi Su, Zhong Zhou, Haiyong Chen, “PVEL-AD: A Large-Scale Open-World Dataset for Photovoltaic Cell Anomaly Detection,” IEEE Trans. Ind. Inform., DOI (identifier) :10.1109/TII.2022.3162846
 
