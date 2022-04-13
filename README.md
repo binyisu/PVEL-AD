@@ -10,7 +10,7 @@
 
 **2021 Dataset Access Instructions:**
 
-We build a Photovoltaic Electroluminescence Anomaly Detection dataset (PVEL-AD ) for solar cell, which contains 36,543 near-infrared images with various internal defects and heterogeneous background. This dataset contains anomaly-free images and anomalous images with 10 different categories such as crack (line and star), finger interruption, black core, misalignment, thick line, scratch, fragment, corner, and material defect. Moreover, 37,380 ground truth bounding boxes are provided for 8 types of defects. This is a **long-tail object detection task**, which is challenging and significant for smart manufacturing.
+We build a Photovoltaic Electroluminescence Anomaly Detection dataset (PVEL-AD ) for solar cell, which contains 36,543 near-infrared images with various internal defects and heterogeneous background. This dataset contains anomaly-free images and anomalous images with 10 different categories such as crack (line and star), finger interruption, black core, misalignment, thick line, scratch, fragment, corner, and material defect. Moreover, 37,380 ground truth bounding boxes are provided for 10 types of defects. This is a **long-tail object detection task**, which is challenging and significant for smart manufacturing.
 
 The **PVELAD-2021 Datasets Request Form** is available here. 
 
