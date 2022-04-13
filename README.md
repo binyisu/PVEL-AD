@@ -2,6 +2,7 @@
 
 # News
 [2022-04-13]：Box annotations for vertical_dislocation and horizontal_dislocation will be added into PVELAD dataset.
+
 [2021-12-14]: Training data augmentation via horizontal_flipping.py. Evaluation: first, converting ground truth xml to txt by get_gt_txt.py; Second, appling AP50-5-95.py to evaluate the detection results.
 
 [2021-11-23]: A kaggle competition platform is built, then you can submit you result in https://www.kaggle.com/c/pvelad, and evaluate your algorithm.
