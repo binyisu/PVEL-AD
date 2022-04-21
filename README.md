@@ -25,7 +25,7 @@ All researchers need to follow the instructions below to access the datasets.
 
 ![image](https://github.com/binyisu/PVEL-AD/blob/main/pvel.jpg)
 
-[1] Binyi Su, Zhong Zhou, Haiyong Chen, “PVEL-AD: A Large-Scale Open-World Dataset for Photovoltaic Cell Anomaly Detection,” IEEE Trans. Ind. Inform., DOI (identifier) :10.1109/TII.2022.3162846
+[1] Binyi Su, Zhong Zhou, Haiyong Chen, “PVEL-AD: A Large-Scale Open-World Dataset for Photovoltaic Cell Anomaly Detection,” *IEEE Trans. Ind. Inform.*, DOI (identifier) :10.1109/TII.2022.3162846
 
 [2] B. Su, H. Chen, Y. Zhu, W. Liu and K. Liu, ``Classification of Manufacturing Defects in Multicrystalline Solar Cells With Novel Feature Descriptor,'' *IEEE Trans. Instrum. Meas.*, vol. 68, no. 12, pp. 4675--4688, Dec. 2019.
 
