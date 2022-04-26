@@ -1,7 +1,7 @@
 # Solar cell EL image defect detection
 
 # News
-[2022-04-26]：We will provide a val set of PVELAD dataset.
+[2022-04-26]：We will provide a validation set of PVELAD dataset.
 
 [2022-04-13]：Box annotations for vertical_dislocation and horizontal_dislocation will be added into PVELAD dataset.
 
