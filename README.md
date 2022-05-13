@@ -1,6 +1,8 @@
 # Solar cell EL image defect detection
 
 # News
+
+**instance number**
 | Category               | trainval |            test            |
 |------------------------|:--------:|:--------------------------:|
 | crack                  |   1260   |            2797            |  
