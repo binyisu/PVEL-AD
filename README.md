@@ -1,7 +1,21 @@
 # Solar cell EL image defect detection
 
 # News
-[2022-04-26]：We will provide a validation set of PVELAD dataset.
+| Category               | trainval |            test            |
+|------------------------|:--------:|:--------------------------:|
+| crack                  |   1260   |            2797            |  
+| finger                 |   2958   |            22638           |  
+| black_core             |   1028   |            3877            | 
+| thick_line             |   981    |            1585            | 
+| star_crack             |   135    |            83              |   
+| corner                 |    9     |            12              | 
+| fragment               |    7     |            5               | 
+| scratch                |    5     |            3               | 
+| horizontal_dislocation |   798    |            1582            | 
+| vertical_dislocation   |   137    |            271             | 
+| printing_error         |   32     |            48              | 
+| short_circuit          |   492    |            1215            | 
+
 
 [2022-04-13]：Box annotations for vertical_dislocation and horizontal_dislocation will be added into PVELAD dataset.
 
