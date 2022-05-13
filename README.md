@@ -2,7 +2,7 @@
 
 # News
 
-**instance number**
+|                       **Instance number**                      |                          
 | Category               | trainval |            test            |
 |------------------------|:--------:|:--------------------------:|
 | crack                  |   1260   |            2797            |  
