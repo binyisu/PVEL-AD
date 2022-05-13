@@ -2,24 +2,6 @@
 
 # News
 
-|                       Instance number                          |
-|------------------------|:--------:|:--------------------------:|
-| Category               | trainval |            test            |
-|------------------------|:--------:|:--------------------------:|
-| crack                  |   1260   |            2797            |  
-| finger                 |   2958   |            22638           |  
-| black_core             |   1028   |            3877            | 
-| thick_line             |   981    |            1585            | 
-| star_crack             |   135    |            83              |   
-| corner                 |    9     |            12              | 
-| fragment               |    7     |            5               | 
-| scratch                |    5     |            3               | 
-| horizontal_dislocation |   798    |            1582            | 
-| vertical_dislocation   |   137    |            271             | 
-| printing_error         |   32     |            48              | 
-| short_circuit          |   492    |            1215            | 
-
-
 [2022-04-13]：Box annotations for vertical_dislocation and horizontal_dislocation will be added into PVELAD dataset.
 
 [2021-12-14]: Training data augmentation via horizontal_flipping.py. Evaluation: first, converting ground truth xml to txt by get_gt_txt.py; Second, appling AP50-5-95.py to evaluate the detection results.
@@ -31,6 +13,21 @@
 **2021 Dataset Access Instructions:**
 
 We build a Photovoltaic Electroluminescence Anomaly Detection dataset (PVEL-AD ) for solar cells, which contains 36,543 near-infrared images with various internal defects and heterogeneous backgrounds. This dataset contains 1 class of anomaly-free images and anomalous images with **12** different categories such as crack (line and star), finger interruption, black core, thick line, scratch, fragment, corner, printing_error, horizontal_dislocation, vertical_dislocation, and short_circuit defects. Moreover, 40358 ground truth bounding boxes are provided for **12** types of defects. This is a **long-tail object detection task**, which is challenging and significant for smart manufacturing.
+
+| Category               | trainval |            test            |  
+|------------------------|:--------:|:--------------------------:|
+| finger                 |   2958   |            22638           |
+| crack                  |   1260   |            2797            |    
+| black_core             |   1028   |            3877            | 
+| thick_line             |   981    |            1585            |
+| horizontal_dislocation |   798    |            1582            |
+| short_circuit          |   492    |            1215            |
+| vertical_dislocation   |   137    |            271             |
+| star_crack             |   135    |            83              |
+| printing_error         |   32     |            48              |
+| corner                 |    9     |            12              | 
+| fragment               |    7     |            5               | 
+| scratch                |    5     |            3               | 
 
 The **PVELAD-2021 Datasets Request Form** is available here. 
 
