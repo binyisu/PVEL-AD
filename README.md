@@ -36,7 +36,8 @@ All researchers need to follow the instructions below to access the datasets.
 
 * Download and fill the **Industrial Datasets Request Form** (MUST be hand signed with date). Please use institutional email address(es). Commercial emails such as Gmail and QQmail are NOT allowed. 
 
-* Email the signed **Industrial Datasets Request Form** to Subinyi@buaa.edu.cn
+* Email the signed **Industrial Datasets Request Form** to Subinyi@buaa.edu.cn 
+* Note that If you want to download through google disk, please send me your **google email**.
 * The dataset is jointly released by **Hebei University of Technology** and **Beihang University**.
 
 ![image](https://github.com/binyisu/PVEL-AD/blob/main/pvel.jpg)
