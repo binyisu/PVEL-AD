@@ -40,7 +40,7 @@ All researchers need to follow the instructions below to access the datasets.
 * Note that If you want to download through google disk, please send me your **google email**.
 * The dataset is jointly released by **Hebei University of Technology** and **Beihang University**.
 
-![image](https://github.com/binyisu/PVEL-AD/blob/main/pvel.jpg)
+![image](https://github.com/binyisu/PVEL-AD/blob/main/EL2021.png)
 
 [1] Binyi Su, Zhong Zhou, Haiyong Chen, “PVEL-AD: A Large-Scale Open-World Dataset for Photovoltaic Cell Anomaly Detection,” *IEEE Trans. Ind. Inform.*, DOI (identifier) :10.1109/TII.2022.3162846
 
