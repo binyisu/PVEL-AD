@@ -1,9 +1,9 @@
 # Solar cell EL image defect detection
 
 # News
-[2023-03-06]：**所有人须知** 测试算法请到：https://www.kaggle.com/competitions/pvelad
+[2023-03-06]：**所有人须知**: 测试算法请到 https://www.kaggle.com/competitions/pvelad
 
-[2023-03-06]：**Notice to all for testing** Please go to the following URL to test the algorithm: https://www.kaggle.com/competitions/pvelad
+[2023-03-06]：**Notice to all for testing**: Please go to the following URL to test the algorithm https://www.kaggle.com/competitions/pvelad
 
 [2022-04-13]：Box annotations for vertical_dislocation and horizontal_dislocation will be added into PVELAD dataset.
 
