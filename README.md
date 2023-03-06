@@ -3,7 +3,7 @@
 # News
 [2023-03-06]：**所有人须知**: 我们没有提供测试标注，测试算法请到 https://www.kaggle.com/competitions/pvelad
 
-[2023-03-06]：**Notice to all** We do not provide test annotations, please go to the following URL for testing algorithms: https://www.kaggle.com/competitions/pvelad
+[2023-03-06]：**Notice to all**: We do not provide test annotations, please go to the following URL for testing algorithms https://www.kaggle.com/competitions/pvelad
 
 [2022-04-13]：Box annotations for vertical_dislocation and horizontal_dislocation will be added into PVELAD dataset.
 
