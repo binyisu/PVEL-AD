@@ -1,4 +1,4 @@
-# Solar cell EL image defect detection
+# Solar cell EL image defect detection dataset
 
 # News
 [2023-03-06]：**所有人须知**: 我们没有提供测试标注，测试你的算法请到 https://www.kaggle.com/competitions/pvelad
