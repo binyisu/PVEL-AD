@@ -1,6 +1,7 @@
 # Solar cell EL image defect detection dataset
 
 # News
+[2023-12-19]：2周内回复！Reply within 2 weeks! I am busy with my graduation thesis, please understand!
 [2023-03-06]：**所有人须知**: 我们没有提供测试标注，测试你的算法请到 https://www.kaggle.com/competitions/pvelad
 
 [2023-03-06]：**Notice to all**: We do not provide test annotations, please go to the following URL for testing your algorithms https://www.kaggle.com/competitions/pvelad
