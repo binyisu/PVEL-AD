@@ -2,7 +2,7 @@
 **由于数据集受到大量关注和引用，应多数人要求，现将test标签一并公开，望大家周知！**
 **Due to the growing interest and widespread usage of this dataset, and in response to numerous requests from the community, we have decided to publicly release the test set annotations as well.**
 # News
-[2026-1-30]：数据集网盘下载地址**google drive**：[https://drive.google.com/file/d/1EtteKnLhSFQ3XMCRXt5wKY-lDkIP7299/view?usp=drive_link](https://drive.google.com/drive/folders/1AMlo433v-torspIxynzx0wXGced8Eo3q?usp=drive_link)
+[2026-1-30]：数据集网盘下载地址【new】**google drive**：[https://drive.google.com/file/d/1EtteKnLhSFQ3XMCRXt5wKY-lDkIP7299/view?usp=drive_link](https://drive.google.com/drive/folders/1AMlo433v-torspIxynzx0wXGced8Eo3q?usp=drive_link)
 
 [2023-12-19]：**2周**内回复！Reply within **2 weeks**! I am busy with my graduation thesis, please understand!
 
