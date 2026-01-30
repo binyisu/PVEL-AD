@@ -1,7 +1,7 @@
 # Solar cell EL image defect detection dataset
 
 # News
-[2024-12-18]：数据集网盘下载地址**google drive**：https://drive.google.com/file/d/1EtteKnLhSFQ3XMCRXt5wKY-lDkIP7299/view?usp=drive_link
+[2024-12-18]：数据集网盘下载地址**google drive**：[https://drive.google.com/file/d/1EtteKnLhSFQ3XMCRXt5wKY-lDkIP7299/view?usp=drive_link](https://drive.google.com/drive/folders/1AMlo433v-torspIxynzx0wXGced8Eo3q?usp=drive_link)
 
 [2023-12-19]：**2周**内回复！Reply within **2 weeks**! I am busy with my graduation thesis, please understand!
 
